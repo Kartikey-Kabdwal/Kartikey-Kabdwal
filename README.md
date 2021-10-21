@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartikey Kabdwal</h1>
 <h3 align="center">2nd Year Student at Lovely Professional University </h3>
+<p align="center">
+  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
+  <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey-kabdwal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey-kabdwal" /> </p>
