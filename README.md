@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Kabdwal</h1>
 <h3 align="center">2nd Year Student at Lovely Professional University </h3>
 <p align="center">
-  <img src="https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/main/meme.gif" width=500 height=350>
+  <img src="https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/main/meme.gif" width=450 height=350>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=350/>
   
 </p>
