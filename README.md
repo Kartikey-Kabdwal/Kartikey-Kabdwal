@@ -1,4 +1,4 @@
-![](https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/main/squirrel.png)
+![](https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/main/squirrel11.png)
 <br><br>
 <hr>
 <h1 align="center">Hi 👋, I'm Kartikey Kabdwal</h1>
