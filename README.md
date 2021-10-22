@@ -1,3 +1,6 @@
+![](https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/main/squirrel.png)
+<br><br>
+<hr>
 <h1 align="center">Hi 👋, I'm Kartikey Kabdwal</h1>
 <h3 align="center">2nd Year Student at Lovely Professional University </h3>
 <p align="center">
