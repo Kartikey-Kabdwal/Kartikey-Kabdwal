@@ -1,0 +1,227 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    align-items: center;
+}
+section
+{
+    top:0%;
+    transform: translateY(-50);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    left: 36.5%;
+   
+  
+}
+@keyframes animate
+{
+    0%
+    {
+        filter: hue-rotate(0deg); 
+    }
+    100%
+    {
+        filter: hue-rotate(360deg); 
+    }
+}
+.box    
+{
+    position:relative;
+    padding: 50px;
+    width: 400px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.137);
+    border-radius: 6px;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.219);
+   
+}
+.box::after
+{
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 5px;
+    pointer-events: none;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.418)0%,rgba(255,255,255,0.4) 15%,transparent 40%, transparent 90%,rgba(255, 255, 255, 0.288)100%);
+
+}
+.box .form
+{
+    position: relative;
+    width: 100%;
+
+}
+.box .form h2
+{
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+.box .form .inputBx
+{
+    font-weight: 600;
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+    color: blanchedalmond;
+}
+.box .form .inputBx .one
+{
+    width: 90%;
+    outline: none;
+    border: 2px solid rgba(7, 7, 7, 0.562);
+    background: rgba(255, 255, 255, 0.712);
+    padding: 8px 10px;
+    padding-left: 3px;
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.281);
+}
+.box .form .inputBx .two
+{
+    width: 44.5%;
+    outline: none;
+    border: 2px solid rgba(7, 7, 7, 0.562);
+    background: rgba(255, 255, 255, 0.712);
+    padding: 8px 10px;
+    padding-left: 3px;
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.281);
+}
+.box .form .inputBx input[type="button"]
+{
+background: #fff;
+color: #111;
+max-width: 100px;
+padding: 8px 10px;
+box-shadow: none;
+font-weight: 500;
+letter-spacing: 1px;
+cursor: pointer;
+}
+.box .form .inputBx img
+{
+   
+    filter: invert(1);
+
+}
+.remember
+{
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    font-weight: 300;
+    margin-bottom: 10px;
+    cursor:pointer;
+
+
+}
+.box .form p
+{
+    color: #fff;
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 5px;
+
+}
+.box .form a
+{
+    color: #fff;
+}
+
+
+
+body
+{
+    background: #000;
+}
+.container
+{
+   
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    animation: animate 3s linear infinite;
+}
+@keyframes animate
+{
+    0%
+    {
+    filter: hue-rotate(0deg);
+    }
+100%
+{
+    filter: hue-rotate(360deg)
+}
+}
+
+#box-shadow-div
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 400px;
+    background: #0f0;
+    border-radius: 100%;
+    box-shadow: 0 0 10px 10px #000;
+    filter: blur(80px);
+   
+    
+
+}
+.hexagon
+{
+    position: relative;
+   
+    width: 100px;
+    height: 110px;
+    background: #111;
+    margin: 0.8px;
+    clip-path: polygon(50% 0%, 100% 25%
+    , 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    transition: 2s;
+}
+.hexagon::before
+{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    pointer-events: none;
+    background: rgba(255,255,255,0.02);
+}
+.row
+{
+    display: inline-flex;
+    margin-top: -30px;
+    margin-left: -50px;
+}
+.row:nth-child(even)
+{
+    margin-left: 1px;
+}
