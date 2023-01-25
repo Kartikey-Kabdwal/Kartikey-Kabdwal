@@ -42,4 +42,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey-Kabdwal&hide_border=true&theme=radical" />
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- snake graph -->
+<p align="center">
+<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="50%"> -->
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://github.com/Kartikey-Kabdwal/Kartikey-Kabdwal/blob/snake-grid-animations/github-snake-grid-custom-animation.svg" width="100%">
+</p>
 
