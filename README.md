@@ -4,7 +4,7 @@
 <h1 align="center">Hii Welcome <img width="30" src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"/> </h1>
 <h4>
   <img width="35" src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420"/>
-  I am Kartikey Kabdwal, currently pursuing my Bachelor's in Computer Science and Engineering from <a href="https://www.lpu.in/">Lovely Professional University</a>.
+  I am Kartikey Kabdwal, currently pursuing my Bachelor's in Computer Science and Engineering from Lovely Professional University.
      <br>
    <img width="35" src="https://emojis.slackmojis.com/emojis/images/1616841890/24518/tech.gif?1616841890"/>
       Tech enthusiast.
